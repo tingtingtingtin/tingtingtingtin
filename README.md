@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, call me Ting! 🔔
 
+- My name is Tingxuan, but I go by Ting. I identify as male with he/him pronouns.
+- I'm an undergrad student studying Computer Science at the University of California, Riverside.
+- I'm interested in full-stack development, game dev, and graphic design, with experience in all of the above!
+- Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuan-wu-300044254/) or through my [school](mailto:twu148@ucr.edu) or [personal](mailto:twu062604@gmail.com) emails!
 <!--
 **tingtingtingtingtingtingtingtingtingtin/tingtingtingtingtingtingtingtingtingtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
