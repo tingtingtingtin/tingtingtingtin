@@ -1,6 +1,6 @@
-## Hi, call me Ting! 🔔
+## Hi, I'm Ting! 🔔
 
-- My name is Tingxuan, but I go by Ting. I identify as male with he/him pronouns.
+- My name is Tingxuan, but everyone calls me Ting. I go by he/him pronouns.
 - I'm an undergrad student studying Computer Science at the University of California, Riverside.
 - I'm interested in full-stack development, game dev, and graphic design, with experience in all of the above!
 - Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuan-wu-300044254/) or through my [school](mailto:twu148@ucr.edu) or [personal](mailto:twu062604@gmail.com) emails!
