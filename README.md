@@ -2,8 +2,8 @@
 
 - My name is Tingxuan, but everyone calls me Ting. I go by he/him pronouns.
 - I'm an undergrad student studying Computer Science at the University of California, Riverside.
-- I'm interested in full-stack development, game dev, and design! Also a D&D enjoyer.
-- Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuan-wu-300044254/) or through my [school](mailto:twu148@ucr.edu) or [personal](mailto:twu062604@gmail.com) emails!
+- I've worked on several software projects, both solo and as a team.
+- Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuan-wu-300044254/) or through my [email](mailto:twu062604@gmail.com)!
 <!--
 **tingtingtingtingtingtingtingtingtingtin/tingtingtingtingtingtingtingtingtingtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
