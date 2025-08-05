@@ -1,7 +1,6 @@
 ## Hi, I'm Ting! 🔔
 
-- My name is Tingxuan, but everyone calls me Ting. I go by he/him pronouns.
-- I'm an undergrad student studying Computer Science at the University of California, Riverside.
+- My name is Tingxuan, but everyone calls me Ting.
 - Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuanwu/) or through my [email](mailto:twu062604@gmail.com)!
 <!--
 **tingtingtingtingtingtingtingtingtingtin/tingtingtingtingtingtingtingtingtingtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
