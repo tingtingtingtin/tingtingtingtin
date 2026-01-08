@@ -1,7 +1,18 @@
 ## Hi, I'm Ting! 🔔
 
-- My name is Tingxuan, but everyone calls me Ting.
-- Contact me on [LinkedIn](https://www.linkedin.com/in/tingxuanwu/) or through my [email](mailto:twu062604@gmail.com)!
+I'm a CS grad student at UCR and a full-stack engineer and artist. I like building things from 0 to 1.
+
+<pre>
+      |\      _,,,---,,_              _._     _,-'""`-._
+ZZZzz /,`.-'`'    -.  ;-;;,_         (,-.`._,'(       |\`-/|
+     |,4-  ) )-,_. ,\ (  `'-'            `-.-' \ )-`( , o o)
+    '---''(_/--'  `-'\_)                       `-    \`_`"'-
+</pre>
+
+### **Reach out!**
+- [LinkedIn](https://www.linkedin.com/in/tingxuanwu/)
+- [Portfolio](https://tingwu.dev)
+- [Email](mailto:twu062604@gmail.com)
 <!--
 **tingtingtingtingtingtingtingtingtingtin/tingtingtingtingtingtingtingtingtingtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
